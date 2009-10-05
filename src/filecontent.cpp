@@ -18,7 +18,7 @@
 #include "mainimpl.h"
 #include "git.h"
 #include "annotate.h"
-#include "filecontent.h"
+#include "filecontent.moc"
 
 class FileHighlighter : public QSyntaxHighlighter {
 public:

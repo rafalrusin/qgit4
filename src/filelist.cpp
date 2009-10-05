@@ -8,7 +8,7 @@
 #include <QMouseEvent>
 #include "git.h"
 #include "domain.h"
-#include "filelist.h"
+#include "filelist.moc"
 
 FileList::FileList(QWidget* p) : QListWidget(p), d(NULL), git(NULL), st(NULL) {}
 

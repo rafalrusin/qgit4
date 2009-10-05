@@ -10,7 +10,7 @@
 #include <QRegExp>
 #include "common.h"
 #include "git.h"
-#include "rangeselectimpl.h"
+#include "rangeselectimpl.moc"
 
 using namespace QGit;
 

@@ -10,7 +10,7 @@
 #include "domain.h"
 #include "git.h"
 #include "myprocess.h"
-#include "patchcontent.h"
+#include "patchcontent.moc"
 
 void DiffHighlighter::highlightBlock(const QString& text) {
 

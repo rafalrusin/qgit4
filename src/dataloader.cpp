@@ -9,7 +9,7 @@
 #include <QDir>
 #include <QTemporaryFile>
 #include "git.h"
-#include "dataloader.h"
+#include "dataloader.moc"
 
 #define GUI_UPDATE_INTERVAL 500
 #define READ_BLOCK_SIZE     65535

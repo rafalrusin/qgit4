@@ -11,7 +11,7 @@
 #include "git.h"
 #include "domain.h"
 #include "mainimpl.h"
-#include "treeview.h"
+#include "treeview.moc"
 
 QString FileItem::fullName() const {
 

@@ -11,7 +11,7 @@
 #include "git.h"
 #include "mainimpl.h"
 #include "patchcontent.h"
-#include "patchview.h"
+#include "patchview.moc"
 
 PatchView::PatchView(MainImpl* mi, Git* g) : Domain(mi, g, false) {
 

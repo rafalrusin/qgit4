@@ -20,7 +20,7 @@
 #include <QTextStream>
 #include "annotate.h"
 #include "cache.h"
-#include "git.h"
+#include "git.moc"
 #include "lanes.h"
 #include "myprocess.h"
 

@@ -11,7 +11,7 @@
 #include "exceptionmanager.h"
 #include "common.h"
 #include "domain.h"
-#include "myprocess.h"
+#include "myprocess.moc"
 
 MyProcess::MyProcess(QObject *go, Git* g, const QString& wd, bool err) : QProcess(g) {
 

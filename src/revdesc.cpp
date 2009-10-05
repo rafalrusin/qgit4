@@ -9,7 +9,7 @@
 #include <QRegExp>
 #include <QClipboard>
 #include "domain.h"
-#include "revdesc.h"
+#include "revdesc.moc"
 
 RevDesc::RevDesc(QWidget* p) : QTextBrowser(p), d(NULL) {
 

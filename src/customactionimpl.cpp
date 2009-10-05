@@ -10,7 +10,7 @@
 #include <QMessageBox>
 #include <QInputDialog>
 #include "common.h"
-#include "customactionimpl.h"
+#include "customactionimpl.moc"
 
 using namespace QGit;
 

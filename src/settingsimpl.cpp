@@ -12,7 +12,7 @@
 #include <QSettings>
 #include "common.h"
 #include "git.h"
-#include "settingsimpl.h"
+#include "settingsimpl.moc"
 
 /*
 By default, there are two entries in the search path:

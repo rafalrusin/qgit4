@@ -18,7 +18,7 @@
 #include "patchview.h"
 #include "smartbrowse.h"
 #include "mainimpl.h"
-#include "revsview.h"
+#include "revsview.moc"
 
 RevsView::RevsView(MainImpl* mi, Git* g, bool isMain) : Domain(mi, g, isMain) {
 

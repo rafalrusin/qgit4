@@ -18,7 +18,7 @@
 #include "common.h"
 #include "git.h"
 #include "settingsimpl.h"
-#include "commitimpl.h"
+#include "commitimpl.moc"
 
 using namespace QGit;
 

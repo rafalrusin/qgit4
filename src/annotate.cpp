@@ -10,7 +10,7 @@
 #include <QTimer>
 #include "git.h"
 #include "myprocess.h"
-#include "annotate.h"
+#include "annotate.moc"
 
 #define MAX_AUTHOR_LEN 16
 

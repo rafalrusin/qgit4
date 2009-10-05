@@ -12,7 +12,7 @@
 #include "annotate.h"
 #include "listview.h"
 #include "filecontent.h"
-#include "fileview.h"
+#include "fileview.moc"
 
 #define MAX_LINE_NUM 5
 

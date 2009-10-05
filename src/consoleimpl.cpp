@@ -11,7 +11,7 @@
 #include <QMessageBox>
 #include "myprocess.h"
 #include "git.h"
-#include "consoleimpl.h"
+#include "consoleimpl.moc"
 
 ConsoleImpl::ConsoleImpl(const QString& nm, Git* g) : git(g), actionName(nm) {
 

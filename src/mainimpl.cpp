@@ -29,7 +29,7 @@
 #include "git.h"
 #include "help.h"
 #include "listview.h"
-#include "mainimpl.h"
+#include "mainimpl.moc"
 #include "patchview.h"
 #include "rangeselectimpl.h"
 #include "revdesc.h"

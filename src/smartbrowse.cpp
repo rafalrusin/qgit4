@@ -10,7 +10,7 @@
 #include <QScrollBar>
 #include <QWheelEvent>
 #include "revsview.h"
-#include "smartbrowse.h"
+#include "smartbrowse.moc"
 
 #define GO_UP   1
 #define GO_DOWN 2

@@ -14,7 +14,7 @@
 #include <QShortcut>
 #include "domain.h"
 #include "git.h"
-#include "listview.h"
+#include "listview.moc"
 
 using namespace QGit;
 
