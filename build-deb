@@ -1,0 +1,4 @@
+set -e
+./bootstrap
+cd build
+cpack -G DEB
